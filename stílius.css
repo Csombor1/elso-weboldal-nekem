@@ -1,0 +1,54 @@
+body {
+    background-color: gray;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    border: 2px solid black;
+    padding: 20px;
+     text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 50px;
+}
+
+h2 {
+    font-size: 60px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 20px;
+    margin: 5px;
+}
+
+
+.kartya {
+    background-color: red;
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px gray;
+}
+.gomb {
+    display: inline-block;
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.gomb:hover {
+    background-color: darkblue;
+}
+img {
+    width: 300px;
+    border-radius: 15px;
+}
+h1 {
+    color: white;
+}
+
+p {
+    color: yellow;
+    font-size: 30px;
+}
